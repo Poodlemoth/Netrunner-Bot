@@ -9,5 +9,5 @@
 		Boolean hasWon = false; //if true you WIN!
 		Boolean hasLost = false; //if true you LOSE!
 		Boolean isTurn = true; //it is your turn
-
+		
 	}
