@@ -1,4 +1,7 @@
-	public class Decklist {
+package decks;
+import strategy.BasicRules;
+
+public class Decklist {
 			
 		public static HedgeFund() {
 			int Cost = 5;

@@ -1,3 +1,4 @@
+package strategy;
 	Public class BasicRules {
 		//BasicRules used for basic setup for rules of netrunner
 		int Decksize = 45; //Keeps track of decksize if 0 hasLost = true
