@@ -1,6 +1,10 @@
 	public class BasicAI {
 		
 		public static void main (String[]args) {
+			//starts off by getting ready for first turn
+			
+			
+			
 			if (BasicRules.isTurn) {
 				BasicRules.Clicks = 3;
 				BasicRules.CardsInHand += 1;
