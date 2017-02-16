@@ -7,7 +7,7 @@ public class BasicAI {
 			
 			if (BasicRules.isTurn) {
 				BasicRules.Clicks = 3;
-				BasicRules.CardsInHand += 1;
+				BasicRules.NumInHand += 1;
 				
 			}
 
@@ -16,6 +16,6 @@ public class BasicAI {
 		//set up priorities
 		//first if you can win the game do so
 		//second if you can install ice do so
-		//thrid if you can gain credits do so
+		//third if you can gain credits do so
 		//fourth if you can score an agenda do so
 	}
